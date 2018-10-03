@@ -1,2 +1,2 @@
 # hello-world
-new to git , trying to learn github
+noob to github, trying to learn how to work with github :)
